@@ -11,7 +11,6 @@ I enjoy exploring how technology can solve real-world challenges while also expe
 - 🎓 **Education Tech** – platforms for learning, school management, and community knowledge sharing  
 - 🧑‍🤝‍🧑 **Community & Social Impact** – platforms for NGOs, SDGs awareness, orphanage forums  
 - 🩸 **Healthcare Tech** – blood bank management systems, hospital apps, wellness tools  
-- 📸 **AI & Mobile Creativity** – photo editing AI, minimalistic Android apps  
 - 🔗 **Web3 & Blockchain** – NFTs, DAOs, Solidity smart contracts, gas optimizations  
 
 ---
@@ -46,9 +45,7 @@ I enjoy exploring how technology can solve real-world challenges while also expe
 
 ## 📊 GitHub Stats  
 
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadTech360&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadTech360&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaadTech360&theme=radical)  
 
 ---
 
@@ -56,10 +53,6 @@ I enjoy exploring how technology can solve real-world challenges while also expe
 
 ![Saad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaadTech360&theme=radical)  
 
----
-
-## 🌟 Vision  
-> To build **tech that empowers communities, promotes sustainability, and bridges innovation with social good**.  
 
 ---
 
